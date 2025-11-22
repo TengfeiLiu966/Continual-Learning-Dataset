@@ -8,7 +8,7 @@ The datasets are shared through Google Drive links for easy access and use in re
 ## 🗂️ Datasets Overview
 
 ### 1. **exAAPD**
-- **Description**:We download articles of computer science field from [arXiv](https://arxiv.org/). For maximizing the diversity of the samples, each month from November 2018 to August 2020 has 3000 articles. After preprocessing, exAAPD contains 49326 structured long documents, which are assigned to one or more of 54 subject categories such as cs.it, cs.cv, cs.cl.
+- **Description**:We download articles of computer science field from [arXiv](https://arxiv.org/). For maximizing the diversity of the samples, each month from November 2018 to August 2020 has 3000 articles. After preprocessing, exAAPD contains 49326 structured long documents, which are assigned to one or more of 54 subject categories such as cs.it, cs.cv, cs.cl.
 - **Format**: Structured text (JSON).
 - **Link**: [Google Drive - exAAPD](<https://drive.google.com/drive/folders/1g9s_UiaTVC0GK80s56tiR-Tby-Jbi-wy?dmr=1&ec=wgc-drive-globalnav-goto>)
 
