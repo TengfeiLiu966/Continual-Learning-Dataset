@@ -1,7 +1,7 @@
 # Continual-Learning-Dataset
-Two datasets for continual learning tasks, designed to support incremental and lifelong learning experiments.
+Four datasets for continual learning tasks, designed to support incremental and lifelong learning experiments.
 
-This repository contains two datasets designed for **continual learning** tasks. These datasets are curated to support **incremental learning** and **lifelong learning** experiments, helping researchers develop models that can learn new tasks over time without forgetting the previously learned tasks.
+This repository contains four datasets designed for **continual learning** tasks. These datasets are curated to support **incremental learning** and **lifelong learning** experiments, helping researchers develop models that can learn new tasks over time without forgetting the previously learned tasks.
 
 The datasets are shared through Google Drive links for easy access and use in research.
 
